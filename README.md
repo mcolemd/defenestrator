@@ -9,12 +9,13 @@ Usage:
 # Fear no more
 
 - Defenestrator prepares your text files and scripts for easy transferral between unix and windows systems. It's as easy as 
-1) ./defenestrator
-2) Enjoy the ascii window
-3) Select conversion method
-4) Look at files in current working directory
-5) Enter exact filename of desired file to prepare
-6) Voila!
+1) Add executable priv to defenestrator.pl
+2) ./defenestrator
+3) Enjoy the ascii window
+4) Select conversion method
+5) Look at files in current working directory
+6) Enter exact filename of desired file to prepare
+7) Voila!
 
 # Now in original and low-fat flavor
 
