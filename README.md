@@ -15,7 +15,7 @@ Usage:
 4) Select conversion method
 5) Look at files in current working directory
 6) Enter exact filename of desired file to prepare
-7) Voila!
+7) Voila! You've got a travel-ready .txt file
 
 # Now in original and low-fat flavor
 
@@ -23,3 +23,4 @@ Planned Features:
 - Select custom pathing (prior to ls-ing dir)
 - Output confirmation
 - Option to mv file in one fell swoop!
+- Rename outputted file
